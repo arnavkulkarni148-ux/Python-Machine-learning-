@@ -47,7 +47,7 @@ def Process(DirectoryName, ReceiverEmail):
 
     SenderEmail = "animishdeo2024.comp@mmcoe.edu.in"
 
-    AppPassword = "wdqewiztaoyaijbv"
+    AppPassword = "wxyzxyzztaobnjklk"
 
     SendMail(SenderEmail,
              AppPassword,
