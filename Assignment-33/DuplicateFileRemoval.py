@@ -45,7 +45,7 @@ def Process(DirectoryName, ReceiverEmail):
 
     print("Log File Created :", LogFile)
 
-    SenderEmail = "arnavkulkarni148@gmail.com"
+    SenderEmail = "animishdeo2024.comp@mmcoe.edu.in"
 
     AppPassword = "wdqewiztaoyaijbv"
 
