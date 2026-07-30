@@ -1,0 +1,1148 @@
+--------------------------------------------------
+Information of Running Processes
+--------------------------------------------------
+
+Process Name : System Idle Process
+PID          : 0
+Username     : NT AUTHORITY\SYSTEM
+--------------------------------------------------
+Process Name : System
+PID          : 4
+Username     : NT AUTHORITY\SYSTEM
+--------------------------------------------------
+Process Name : Registry
+PID          : 224
+Username     : None
+--------------------------------------------------
+Process Name : chrome.exe
+PID          : 444
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : smss.exe
+PID          : 804
+Username     : None
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 884
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 968
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 1044
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 1056
+Username     : None
+--------------------------------------------------
+Process Name : BraveCrashHandler64.exe
+PID          : 1096
+Username     : None
+--------------------------------------------------
+Process Name : csrss.exe
+PID          : 1268
+Username     : None
+--------------------------------------------------
+Process Name : wininit.exe
+PID          : 1372
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 1392
+Username     : None
+--------------------------------------------------
+Process Name : services.exe
+PID          : 1508
+Username     : None
+--------------------------------------------------
+Process Name : lsass.exe
+PID          : 1524
+Username     : None
+--------------------------------------------------
+Process Name : BraveCrashHandler.exe
+PID          : 1552
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 1672
+Username     : None
+--------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 1692
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 1696
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : WUDFHost.exe
+PID          : 1704
+Username     : None
+--------------------------------------------------
+Process Name : fontdrvhost.exe
+PID          : 1716
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 1840
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 1892
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2020
+Username     : None
+--------------------------------------------------
+Process Name : chrome.exe
+PID          : 2052
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2072
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2140
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2148
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2152
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2192
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2200
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2204
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2216
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2376
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2416
+Username     : None
+--------------------------------------------------
+Process Name : IntelCpHDCPSvc.exe
+PID          : 2504
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2512
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2524
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2532
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2556
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2596
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2608
+Username     : None
+--------------------------------------------------
+Process Name : cmd.exe
+PID          : 2680
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2868
+Username     : None
+--------------------------------------------------
+Process Name : conhost.exe
+PID          : 2892
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2904
+Username     : None
+--------------------------------------------------
+Process Name : igfxCUIServiceN.exe
+PID          : 3016
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 3092
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 3188
+Username     : None
+--------------------------------------------------
+Process Name : NVDisplay.Container.exe
+PID          : 3260
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 3328
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 3336
+Username     : None
+--------------------------------------------------
+Process Name : NVIDIA Overlay.exe
+PID          : 3348
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : AsusCertService.exe
+PID          : 3400
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 3408
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 3476
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 3484
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 3536
+Username     : None
+--------------------------------------------------
+Process Name : WUDFHost.exe
+PID          : 3556
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 3588
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 3596
+Username     : None
+--------------------------------------------------
+Process Name : MemCompression
+PID          : 3628
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 3736
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 3788
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 3824
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 3872
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 3924
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 4000
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 4060
+Username     : None
+--------------------------------------------------
+Process Name : AsusOptimization.exe
+PID          : 4092
+Username     : None
+--------------------------------------------------
+Process Name : chrome.exe
+PID          : 4112
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : spoolsv.exe
+PID          : 4116
+Username     : None
+--------------------------------------------------
+Process Name : ApplicationFrameHost.exe
+PID          : 4160
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 4228
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 4288
+Username     : None
+--------------------------------------------------
+Process Name : LightingService.exe
+PID          : 4324
+Username     : None
+--------------------------------------------------
+Process Name : chrome.exe
+PID          : 4348
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : ArmouryCrateControlInterface.exe
+PID          : 4464
+Username     : None
+--------------------------------------------------
+Process Name : ArmouryCrate.Service.exe
+PID          : 4472
+Username     : None
+--------------------------------------------------
+Process Name : AsusAppService.exe
+PID          : 4480
+Username     : None
+--------------------------------------------------
+Process Name : AuraWallpaperService.exe
+PID          : 4492
+Username     : None
+--------------------------------------------------
+Process Name : cbservice.exe
+PID          : 4504
+Username     : None
+--------------------------------------------------
+Process Name : AsusSystemDiagnosis.exe
+PID          : 4512
+Username     : None
+--------------------------------------------------
+Process Name : AsusSwitch.exe
+PID          : 4520
+Username     : None
+--------------------------------------------------
+Process Name : AsusSoftwareManager.exe
+PID          : 4536
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 4544
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 4568
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 4576
+Username     : None
+--------------------------------------------------
+Process Name : AdskLicensingService.exe
+PID          : 4580
+Username     : None
+--------------------------------------------------
+Process Name : DtsApo4Service.exe
+PID          : 4592
+Username     : None
+--------------------------------------------------
+Process Name : AsusPTPService.exe
+PID          : 4612
+Username     : None
+--------------------------------------------------
+Process Name : GameInputRedistService.exe
+PID          : 4616
+Username     : None
+--------------------------------------------------
+Process Name : FNPLicensingService64.exe
+PID          : 4628
+Username     : None
+--------------------------------------------------
+Process Name : esif_uf.exe
+PID          : 4656
+Username     : None
+--------------------------------------------------
+Process Name : chrome.exe
+PID          : 4704
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : cer_service.exe
+PID          : 4720
+Username     : None
+--------------------------------------------------
+Process Name : AdskAccessServiceHost.exe
+PID          : 4748
+Username     : None
+--------------------------------------------------
+Process Name : GlideXNearService.exe
+PID          : 4804
+Username     : None
+--------------------------------------------------
+Process Name : GlideXService.exe
+PID          : 4812
+Username     : None
+--------------------------------------------------
+Process Name : GlideXRemoteService.exe
+PID          : 4820
+Username     : None
+--------------------------------------------------
+Process Name : GameSDK.exe
+PID          : 4836
+Username     : None
+--------------------------------------------------
+Process Name : GlideXServiceExt.exe
+PID          : 4956
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 5008
+Username     : None
+--------------------------------------------------
+Process Name : OneApp.IGCC.WinService.exe
+PID          : 5036
+Username     : None
+--------------------------------------------------
+Process Name : StartMenuExperienceHost.exe
+PID          : 5072
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : IntelAudioService.exe
+PID          : 5080
+Username     : None
+--------------------------------------------------
+Process Name : jhi_service.exe
+PID          : 5088
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 5096
+Username     : None
+--------------------------------------------------
+Process Name : MpDefenderCoreService.exe
+PID          : 5136
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 5188
+Username     : None
+--------------------------------------------------
+Process Name : mysqld.exe
+PID          : 5260
+Username     : None
+--------------------------------------------------
+Process Name : nvcontainer.exe
+PID          : 5324
+Username     : None
+--------------------------------------------------
+Process Name : ROGLiveService.exe
+PID          : 5380
+Username     : None
+--------------------------------------------------
+Process Name : RtkAudUService64.exe
+PID          : 5468
+Username     : None
+--------------------------------------------------
+Process Name : TbtP2pShortcutService.exe
+PID          : 5476
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 5508
+Username     : None
+--------------------------------------------------
+Process Name : TeamViewer_Service.exe
+PID          : 5516
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 5580
+Username     : None
+--------------------------------------------------
+Process Name : WMIRegistrationService.exe
+PID          : 5588
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 5604
+Username     : None
+--------------------------------------------------
+Process Name : MsMpEng.exe
+PID          : 5628
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 5636
+Username     : None
+--------------------------------------------------
+Process Name : RstMwService.exe
+PID          : 5644
+Username     : None
+--------------------------------------------------
+Process Name : powershell.exe
+PID          : 5728
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : PresentationFontCache.exe
+PID          : 5816
+Username     : None
+--------------------------------------------------
+Process Name : chrome.exe
+PID          : 6040
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : chrome.exe
+PID          : 6060
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 6128
+Username     : None
+--------------------------------------------------
+Process Name : OmenCommandCenterBackground.exe
+PID          : 6360
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : WhatsApp.Root.exe
+PID          : 6548
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 6628
+Username     : None
+--------------------------------------------------
+Process Name : AppActions.exe
+PID          : 6728
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : mysqld.exe
+PID          : 6740
+Username     : None
+--------------------------------------------------
+Process Name : AsHotplugCtrl.exe
+PID          : 6872
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : conhost.exe
+PID          : 6976
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 7032
+Username     : None
+--------------------------------------------------
+Process Name : chrome.exe
+PID          : 7236
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : Code.exe
+PID          : 7316
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : conhost.exe
+PID          : 7420
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 7544
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 7628
+Username     : None
+--------------------------------------------------
+Process Name : chrome.exe
+PID          : 7776
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : WmiPrvSE.exe
+PID          : 7824
+Username     : None
+--------------------------------------------------
+Process Name : nvsphelper64.exe
+PID          : 7932
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : chrome.exe
+PID          : 8060
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : chrome.exe
+PID          : 8124
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 8216
+Username     : None
+--------------------------------------------------
+Process Name : OfficeClickToRun.exe
+PID          : 8532
+Username     : None
+--------------------------------------------------
+Process Name : AdskAccessService.exe
+PID          : 8652
+Username     : None
+--------------------------------------------------
+Process Name : crashpad_handler.exe
+PID          : 8980
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 9344
+Username     : None
+--------------------------------------------------
+Process Name : Code.exe
+PID          : 9412
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 9452
+Username     : None
+--------------------------------------------------
+Process Name : Code.exe
+PID          : 9536
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 9540
+Username     : None
+--------------------------------------------------
+Process Name : gamingservices.exe
+PID          : 9876
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 10104
+Username     : None
+--------------------------------------------------
+Process Name : AsMonitorControl.exe
+PID          : 10152
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : gamingservicesnet.exe
+PID          : 10188
+Username     : None
+--------------------------------------------------
+Process Name : Widgets.exe
+PID          : 10224
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : wlanext.exe
+PID          : 10344
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 10560
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 10576
+Username     : None
+--------------------------------------------------
+Process Name : WUDFHost.exe
+PID          : 10636
+Username     : None
+--------------------------------------------------
+Process Name : GameInputSvc.exe
+PID          : 10688
+Username     : None
+--------------------------------------------------
+Process Name : AggregatorHost.exe
+PID          : 10732
+Username     : None
+--------------------------------------------------
+Process Name : NisSrv.exe
+PID          : 10820
+Username     : None
+--------------------------------------------------
+Process Name : AsusOptimizationStartupTask.exe
+PID          : 10988
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 11216
+Username     : None
+--------------------------------------------------
+Process Name : vrol.exe
+PID          : 11280
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 11304
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 11388
+Username     : None
+--------------------------------------------------
+Process Name : chrome.exe
+PID          : 11632
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : chrome.exe
+PID          : 11644
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : SearchIndexer.exe
+PID          : 11736
+Username     : None
+--------------------------------------------------
+Process Name : ArmouryCrate.exe
+PID          : 11952
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 12296
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : Code.exe
+PID          : 12424
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 12444
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 12472
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 12580
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : GameInputSvc.exe
+PID          : 12688
+Username     : None
+--------------------------------------------------
+Process Name : chrome.exe
+PID          : 12988
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : unsecapp.exe
+PID          : 13028
+Username     : None
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 13068
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : WindowsTerminal.exe
+PID          : 13564
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 13796
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : AsusSystemAnalysis.exe
+PID          : 13820
+Username     : None
+--------------------------------------------------
+Process Name : AcPowerNotification.exe
+PID          : 13872
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 14276
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : fontdrvhost.exe
+PID          : 14976
+Username     : None
+--------------------------------------------------
+Process Name : OpenConsole.exe
+PID          : 15016
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : chrome.exe
+PID          : 15108
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : ArmourySocketServer.exe
+PID          : 15200
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : sihost.exe
+PID          : 15320
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : chrome.exe
+PID          : 15464
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : Code.exe
+PID          : 15496
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 15660
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : NVIDIA Overlay.exe
+PID          : 16068
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : ASUSSmartDisplayControl.exe
+PID          : 16148
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : RtkAudUService64.exe
+PID          : 16260
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 16264
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 16296
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 16644
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 16648
+Username     : None
+--------------------------------------------------
+Process Name : WmiPrvSE.exe
+PID          : 16804
+Username     : None
+--------------------------------------------------
+Process Name : UserOOBEBroker.exe
+PID          : 16868
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : ShellExperienceHost.exe
+PID          : 17252
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 17412
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : GenuineService.exe
+PID          : 17672
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 17704
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 17764
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : CodeSetup-stable-e4c7e7b1d6d060162f4aa7f8225271b67ce1df75.tmp
+PID          : 17828
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 17848
+Username     : None
+--------------------------------------------------
+Process Name : PhoneExperienceHost.exe
+PID          : 17872
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : SystemOptimizer.exe
+PID          : 18192
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : GameInputRedistService.exe
+PID          : 18296
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : NVIDIA Overlay.exe
+PID          : 18308
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : chrome.exe
+PID          : 18360
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 18420
+Username     : None
+--------------------------------------------------
+Process Name : LightStudio-background.exe
+PID          : 18440
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : chrome.exe
+PID          : 18480
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : SecurityHealthService.exe
+PID          : 18536
+Username     : None
+--------------------------------------------------
+Process Name : rundll32.exe
+PID          : 18588
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : Code.exe
+PID          : 18624
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 18656
+Username     : None
+--------------------------------------------------
+Process Name : CrossDeviceResume.exe
+PID          : 18928
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : nvcontainer.exe
+PID          : 19028
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : asus_framework.exe
+PID          : 19280
+Username     : None
+--------------------------------------------------
+Process Name : chrome.exe
+PID          : 19300
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 19676
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : nvcontainer.exe
+PID          : 19716
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : ArmouryHtmlDebugServer.exe
+PID          : 20352
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 20428
+Username     : None
+--------------------------------------------------
+Process Name : CrossDeviceService.exe
+PID          : 20544
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : chrome.exe
+PID          : 20560
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : chrome.exe
+PID          : 20832
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : csrss.exe
+PID          : 21016
+Username     : None
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 21120
+Username     : None
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 21156
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : SpotifyLauncher.exe
+PID          : 21612
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 21616
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 22092
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : Code.exe
+PID          : 22196
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 22220
+Username     : None
+--------------------------------------------------
+Process Name : SystemSettings.exe
+PID          : 22264
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : ArmouryCrate.UserSessionHelper.exe
+PID          : 22316
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 23132
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 23412
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 23432
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : Code.exe
+PID          : 23452
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : ShellHost.exe
+PID          : 23512
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 23624
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : AsusOSD.exe
+PID          : 23684
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : asus_framework.exe
+PID          : 23940
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : nvcontainer.exe
+PID          : 24028
+Username     : None
+--------------------------------------------------
+Process Name : explorer.exe
+PID          : 24188
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : dllhost.exe
+PID          : 24304
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 24372
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 24668
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : Code.exe
+PID          : 24776
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : ctfmon.exe
+PID          : 25408
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : WmiApSrv.exe
+PID          : 25696
+Username     : None
+--------------------------------------------------
+Process Name : igfxEMN.exe
+PID          : 25768
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : winlogon.exe
+PID          : 25828
+Username     : None
+--------------------------------------------------
+Process Name : taskhostw.exe
+PID          : 26048
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : NVIDIA Overlay.exe
+PID          : 26336
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : Code.exe
+PID          : 26776
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : chrome.exe
+PID          : 26804
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : conhost.exe
+PID          : 27076
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 27272
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : NVDisplay.Container.exe
+PID          : 27288
+Username     : None
+--------------------------------------------------
+Process Name : CodeSetup-stable-e4c7e7b1d6d060162f4aa7f8225271b67ce1df75.exe
+PID          : 27428
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : Code.exe
+PID          : 27472
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : WidgetService.exe
+PID          : 27496
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : python.exe
+PID          : 27540
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : crashpad_handler.exe
+PID          : 27684
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : pet.exe
+PID          : 27720
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 27836
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : OpenConsole.exe
+PID          : 28000
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : NVIDIA Overlay.exe
+PID          : 28272
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : asus_framework.exe
+PID          : 28288
+Username     : None
+--------------------------------------------------
+Process Name : Code.exe
+PID          : 28500
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : dwm.exe
+PID          : 28520
+Username     : None
+--------------------------------------------------
+Process Name : AsusSoftwareManagerAgent.exe
+PID          : 28596
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
+Process Name : SearchHost.exe
+PID          : 28628
+Username     : ARNAVKULKARNI\ASUS
+--------------------------------------------------
