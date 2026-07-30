@@ -65,9 +65,9 @@ def DirectoryCheck(FolderName):
 
 def SendMail(FileName, ReceiverMail):
 
-    SenderMail = "arnavvjkkk@gmail.com"
+    SenderMail = "arnav@gmail.com"
 
-    Password = "vlyk ulvd lgjk mdwq"
+    Password = "**** **** **** ****"
 
     try:
 
