@@ -31,9 +31,5 @@ def main():
     print("Passed Students:",passed_stud)
     print("-"*50)
 
-
-
-
-
 if __name__ == "__main__":
     main()

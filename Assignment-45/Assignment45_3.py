@@ -37,8 +37,5 @@ def main():
     print(avg_marks)
     print("-"*50)
 
-
-
-
 if __name__ == "__main__":
     main()

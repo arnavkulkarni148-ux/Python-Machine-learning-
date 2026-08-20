@@ -23,9 +23,5 @@ def main():
 )
     print(df[['Name','Total','Status']])
 
-
-
-
-
 if __name__ == "__main__":
     main()

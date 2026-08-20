@@ -27,10 +27,5 @@ def main():
     print("DataFrame exported successfully to final_student_data.csv")
     print("-"*50)
 
-
-
-
-
-
 if __name__ == "__main__":
     main()
